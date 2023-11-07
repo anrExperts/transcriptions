@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>29. Juin 1736<lb/>alignement de Murs<lb/>Rüe S.<hi>t</hi> Deniers<lb/>Entre la dame<lb/>V.<hi>e</hi>
+            <unclear>Bouges</unclear> et Le<lb/>S.<hi>r</hi> Volans<lb/>M<hi>r</hi> Puifieux<lb/>Expert<lb/>Berviller Greffier.<!--Reprendre le début--></p>
+         <p>Payé<lb/>[…]</p>
+         <p>Aujourdhuy Vendredy Vingt Neufieme jour<lb/>de Juin mil Sept cent trente six deux heures de<lb/>Relevée.</p>
+         <p>Nous jean Baptiste Puifieux architecte Expert<lb/>Bourgeois enconsequence dela Requisition Verballe<lb/>a Nous faite par les parties<!--écrit partjes avec un j--> Cy apres Nommées<lb/>Sommes transportéz avec S<hi>r</hi> jean Guillaume<lb/>Berville greffier des Batiments a Paris en Une<lb/>Maison Scize Rüe S<hi>t</hi> Denis appartenante auSieur<lb/>Denis Volant Marchand aparis ou Estant Est<lb/>Comparus Ledit frère Volant Et Dame Marie Palle<lb/>Veufve de francois <unclear>Bouges</unclear> ppre <!--abréviation avec un grand tild au dessus--> dune autre maison<lb/>Joignante et De celle ci<!--cj-->
+            <unclear>devans Ditte et cyla</unclear><lb/>quelle Nous Sommes Separées L'une de Lautre<lb/>par un mur mitoien<!--mitojen--> Lesquelles parties<!--partjes--> Nous ont<lb/>Premiere Vu acte Soussignature privée endatte<lb/>du 26 dupar<!--abréviation "dupareil" ? avec un grand tild au dessus--> mois controllé Levingt Huit<lb/>par lequel <unclear>appars</unclear><!--Encore une abréviation ?--> que lad. Dame Veufve Bouges<lb/>et ledit Sieur Volant Nous ont donné pouvoir<lb/>de Voir et visiter Ledit mur mitoien<!--mitojen--> Separant<lb/>leurs dites maisons et Notemment dans lapartie<!--partje--> de<lb/>lasalle dud. S.<hi>r</hi> Volant et des magazines de laditte<lb/>Veufve Bouges haporter lestat dudimur […]<lb/>lalignement establit sa Construction et aquels frais<lb/>Il doit estre Reconstruire <unclear>avec</unclear>
+            <unclear>promesses</unclear> de<pb/>
+            <unclear>Seu</unclear><unclear>Raportes</unclear> atout cequi feroit fait etReglé<lb/>par Nous Experts Lequel pouvoir Nous avons<lb/>annexé ala presente minutte pour Sibesoin est <unclear>il</unclear><!--jl ?--><lb/>avoit Recourt.</p>
+         <p>Apres Laquelle Lecture ainsi<!--ainsj--> faite Nous avons<lb/>enpresence desd parties<!--partjes--> asistés du S<hi>r</hi> […] Leur<lb/>Entrepreneur fait LaVisitte dud mur queNous<lb/>avons trouvé dans toutte Lalongueur deladitte<lb/>Salle considerablement <unclear>Bouilé</unclear> fractionné et salpestré<lb/>de tres ancienne et Mauvaise construction <unclear>huist detax</unclear><lb/>de pouvoir subsister même enperil <unclear>Eurinent</unclear> dans lahauteur<lb/>de l'estage du Rez de Chaussée et avons observé quedans<lb/>Ledit Mur il<!--écrit jl--> ia<!--écrit ja--> une jambe souspoutre pareillement<lb/><unclear>Deversée</unclear> et de Nulle valeur Laquelle sera aSoutenir<lb/>lapoutre duplancher haut de la salle dud Sieur Valaut<lb/>pourquoi<!--écrit pourquoj--> est Necessaire même indispensable<!--écrit jndispensable-->
+            <unclear>detaies</unclear><!--Je pense qu'il s'agit d'une abréviation--><lb/>Lesplanchers des p.<hi>ers</hi> estages de Lun et lautre Costé<lb/>dud. Mur Le Demolir et Reconstruire aNeuf<lb/>enla hauteur dud Estage Le Surplus en Amont<lb/>Nous aiant<!--écrit ajant--> parut Dassez bonne Sonctruction et<lb/>en Estat de subsister Lequel mur sera Reconstruit<lb/>Avec Leur Moilon <unclear>dud</unclear>
+            <unclear>Effenillé</unclear> maconné enplastre<lb/>et […] des deuxcostés afrais communds des<lb/>parties<!--écrit partjes--> Chacuns <!--chacunes ? mais en abréviation ?--> pour moitié et aLegard dela<lb/>jambe Souspoutre de pierre qui est dans<pb/> Ledit Mur <unclear>Lapluie</unclear> valleur et taille depierre enSera<lb/>paiée<!--écrit payée--> aux frais etdepens Seuls dud S.r Volant<lb/>Et Les <unclear>estajements</unclear> et Retablissements faits chacuns <add>endroit Soi<!--écrit Soj--> Et</add><lb/>de son costé suivant L'usage.</p>
+         <p>Et pourqu'il<!--apostrophe ajouté car mot lié--> Nesoit fait aucune Anticipation<lb/>Sur Lheritage d'aucune des parties Nous en<lb/>avons pris et donné lalignement pour aquoi<!--écrit aquoj--><lb/>parvenir Nous avons fait tendre uneligne<lb/>le long et audevant dudit<lb/>Mur parle moien<!--écrit mojen--> de laquelle Nous avons<lb/>Reconnu quil est originairement d'un Droit alignement<lb/>Sans plier Ni<!--écrit Nj--> Coude et pour qu'il Soit <unclear>assis</unclear> etplanté<lb/>Sur ses enciens vestiges <add>il<!--écrit jl--> Sera Erigé<lb/>du Costé de la<lb/>porte D'entrée<lb/>a quatre pouces<lb/>de distance Et<lb/>intervalle</add><lb/><add>D</add>Un trait aplomb en forme de Croix <add>que Nous avons<lb/>fait Et Gravé</add> sur une Assise<lb/>depierre de <unclear>Lenvignure</unclear> dud. mur duCosté delaporte<lb/> qui Ne Sera point Demolie<!--écrit démolje--> et par lautre bout <add>a Seize pieds trois<lb/>pouces Neuf lignes<lb/>de distance et<lb/>intervalle<!--écrit jntervalle mais je ne sais pas si c'est un I majuscule ou un j minuscule--> d'un <lb/>pareil trait a<lb/>plomb enforme<lb/>decroix que Nous<lb/>avons Gravé <!--On parvient à deviner mais il y a un bout du papier déchiré--></add><lb/><unclear>n'est</unclear> et par LECosté de lad. Dame <unclear>Bouiher</unclear><lb/>qui Sera de 12 p.<hi>d</hi> depess.<hi>r</hi><!--abréviations--> Ainsy que Nous lavons<lb/>Reconnüe parles tranchées que Nous avons fait faire<lb/><add>[…] <unclear>Seize</unclear></add> pieds trois pouces Neuf lignes de <unclear>Nud au Nud</unclear> des moilons<pb/>Acet Effet attentu que ledi alignement a Esté<lb/>pris et donné par leCosté dudit Sieur Volant<lb/>Comme plus Commode et Moins Embarassé<lb/>Et Les Repaires ainsi<!--ainsy--> marqués<!--marquéz ?--><lb/>fait par Nous Architecte Expert Susdit Le<lb/>jour Mois et an <unclear>quedessun</unclear>.</p>
+         <p>Puisieux</p>
+         <p>[…]</p>
+         <p>Controllé a Paris Le 7 Juillet 1736<lb/>R. Rouze […]</p>
+         <p>Examinée Dechargée<lb/>[…]</p>
+      </body>
+  </text>
+</TEI>
