@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p><add place="margin">Du 20 Avril 1736<lb/>Visitte et Estimation de<lb/>Maison Rüe des<lb/>fontaines pour Mr<lb/>Vaultier de mazencourt<lb/>M<hi>r</hi> Joubert Expert<lb/>Berville Greffier</add></p>
+         <p>A Messire Jeromes<lb/>dazgouges Chevallier Seigneur<lb/>de fleury Con<hi>er</hi> du Roy en<lb/>ses Conseils m.<hi>e</hi> des Requestes<lb/>honoraires de son hotel Lieux<lb/>Civil dela Ville Prevosté et<lb/>Vicomte de Paris</p>
+         <p>Aujourd'huy Vendredy Vingt.<hi>e</hi> Avril mil Sept Cent<lb/>trente Six deux heures de relevé<lb/>Nous Louis Joubert architecte Expert Entrepreneur des<lb/>batimants a Paris Sommes avec M.<hi>e</hi>Jean Guillaume<lb/>Berville greffier desbatiments pour satisfaire a la<lb/>requisition Verballe a nous Faite par Les Jurés<lb/>Nommés Transportés en une maison Scize en Cette<lb/>Ville rue des Fontaines ou estant en presence de<lb/>M.<hi>r</hi> alexandre Vaultier Comte de Mazencourt <add place="margin" hand="Berville">Et de Monsieur<lb/>Gerges Gabriel<lb/>Vaultier Chevalier<lb/>de Mazencourt</add> Et<lb/>En labsence des autres parties.</p>
+         <p>Nous avons Fait Lecture d'une requeste a Vous M.<hi>r</hi><lb/>Presentée par Les Sieurs allez <unclear unit="word" quantity="2">audre Nautres</unclear> Chevalier<lb/>Comte En Moyen Cour, george Vautier Chevallier<lb/>de Mazencourt Capitaine au regiment de Touraine Charles<lb/>Toussain Allant Prevost epernais en Champagne<lb/>Tuteur et georges Nicolas en La Cloche delamalmaison<lb/>Et pierre Prudent Gilbert de Verronne Chevallier Son<lb/>Fils lesd. Comte Et Chevaliers demoyen court heritiers<lb/>chacun pour un Tiers et Messire ale <gap unit="word" quantity="1"/> Vaultier<lb/>Chevallier Comte et Moyen court Capitaine de Vaissaux<lb/>du Roy gouverneur dela guadeloupe Amirauté despagne<lb/>Collonel dela Nation Françoise a Cadix chevallier<lb/>de Lordre militaire de Saint Louis et de Lordre <abbr>enf<hi>t</hi></abbr><pb/>deSaint Lazare Et de Dame Marie Anne dela<lb/>Croix Son Epouse et Lesd. dela Cloche et Gilbert<lb/>de Veronne par representation des dames Gabriel Vaultier<lb/>demoyen Court Leur mere pour Lautre Tiers desd.<lb/>deffuns Sieurs et dame Comte et Comtesse de<lb/>Mazencourt a Cequil soit par Vous ordinné que par<lb/>Tel Expert quil Vous plaira Commettre Visitte Seront<lb/>Faite delad. maison ou nous Sommes ne<lb/>pouvant La Comprendre <gap quantity="1" unit="word"/> Lamasse des biens<lb/>delad. Succession <add>qu'au prealable<lb/>il nait éte<lb/>procedé dIcelles</add> Et dutout endresser procés Verbal<lb/>de La Maniere accoutumée, au bas delad. requeste<lb/>Et Vostre ordonnance Monsieur portant permission<lb/>de Faire Visitter et priser Lad. maison par nous<lb/>Jouvert Juré Expert Lad. requeste et ordonnance<lb/>nous avons annexé a La presente minutte pour y avoir<lb/>recour en Cas debesoin.</p>
+         <p>Après Laquelle Lecture nous avons Vu et Visitté Lad.<lb/>maison et avons trouve quelle Conciste premierem.<hi>t</hi> en un<lb/>Corps delogis Sur lad. rue Elevé dedeux estages <unclear unit="word" quantity="1">Casses</unclear><lb/>audessus de celuy du rez deChausseet d'un Estage <add place="margin" hand="Berville">de grenier non<lb/>Lembrissé</add><lb/>apliqué au rez de chaussée en une Entrée de passage de<lb/>porte Cochere Sur Lad. rue avec une Ecurie achauche<lb/>a Costé.</p>
+         <p>Lepremier Estage aplique en Deux pieces et Cheminée ayant<lb/>vue Sur Lad. rue Carrelée et plaffonnée </p>
+         <p>Le Second Estage apliqué dememe a deux pieces a Cheminées<lb/>Toutes deux Carrelées une non plaffonnée Lautre plafonnée<lb/>Et toutes deux Eclairées Sur lad. rue.</p>
+         <p>LeTroisieme Estage au dessus apliqué a un grenier non<lb/>Carrelé divisé en deux pieces par des Cloisons de<lb/>plancher avec un petit Carré depassage de degagement<lb/>pour y Communiquer.</p>
+         <p>Sous L'Ecurie <add place="margin" hand="Berville">Cy dessus declaré</add>, est un berceau de Cave Le Tout Couvert de<lb/>Thuilles de Comble a Egout Sur lad. rue et sur Led. passage<pb/> de porte Cochere.</p>
+         <p>Petite Court Ensuitte quy est Icelle<lb/>Ensuitte de Laquelle Court est un<lb/>autre Corps de logis faisans face Sur Le<lb/>Jardin cyapres declaré Elevé de Deux Estages<lb/><unclear unit="word" quantity="1">Casses</unclear> audessus de celuy du rezdechaussée et d'un<lb/>Estage Lambrissé et Caves audessous.</p>
+         <p/>
+         <p>Apliqué au rez dechaussée ala Suitte dud. passage<lb/>deporte Cochere Servant pour aller au Jardin avec<lb/>une grille et porte de Fer Servant a Fermer ledit<lb/>Jardin a gauche duquel passage en une Cuisine<lb/>dans Laquelle Cuisine est un Fourneau potager et<lb/>une pierre a Laver, Icelle Cuisine pavée et non<lb/>plaffonnées.</p>
+         <p>Lepremier Estage apliqué a deux pierres a cheminée une<lb/>grande et une petite Eclairées Sur Le Jardin Lagrande<lb/>Carrelée et la petite <gap unit="word" quantity="1"/> et toutes deux<lb/>non plaffonnée</p>
+         <p>Le deuxieme estage aplique aussy a deux pieces a<lb/>cheminée Carrelée et plafonnée La Grande piece<lb/>Separée en deux par une Cloison deplancher pour<lb/>Former une antichambre.</p>
+         <p>Le Troisieme aplique aussy a deux pieces acheminée<lb/>Eclairées tant Sur le Jardin que Sur La petite<lb/>Cour cy devant declarée Lagrande piece Separée en<lb/>Trois et a un petitpassage de degagement Formé<lb/>par plusieurs Cloisons deplancher Icelle Chambre<lb/>Carrelée plaffonnée et Lambrisée Letout Couvert<lb/>dethuille en Comble a Egout Tant Sur Lad. petite Cour<lb/>que Sur Le Jardin auderriere.</p>
+         <p>Entre Lesd. deux Corps de Logis est Lecellier <unclear unit="word" quantity="1">enpaille</unclear><pb/> Et a gauche En Entrant Eclairé Sur Lad. Cour Lequel est a<lb/>deux Noyeaux de Charpente et maçonnerie avec une dessente<lb/><gap unit="word" quantity="1"/> audessous, Led. Escallier Servant a Communiquer<lb/>auxd. Corps de Logis et pieces cy dessus declarer en haut<lb/>duquel Escallier est un Siege a Cabinet daisance.<add place="margin" hand="Berville">Quatre mots<lb/>rayés nuls</add></p>
+         <p>Jardin Ensuite dud. deuxieme Corps de Logis au millieu<lb/>duquel est un partere de buit en broderie avec platte bande<lb/>au pourt.<hi>r</hi> remply de differentes Fleurs et arbustres aupourt.<hi>r</hi><lb/>des murs duquel Jardin Sont aussy des plates bandes<lb/>bordée debuys et treillages avec plusieurs Sep de<lb/>Vignes en Espalliers et au fond duquel Jardin est un<lb/>petit Couvert Composé de Sept petits Tilleuls Lad.<lb/>maison ainsy quelle Sepoursuit et <unclear unit="word" quantity="1">Corporte</unclear> en estant<lb/>detoute par et de fond en Comble Tenant a droite<lb/>En Entrant a M. Lechevallier dela <gap unit="word" quantity="1"/> agauche<lb/>a M.<hi>lle</hi> Le Jeune d'un bout par derriere auS<hi>r</hi><lb/>Nicolle et aud. et par devant Sur lad. rue<add place="margin" hand="Berville"><unclear unit="word" quantity="1">Leu</unclear> a Paris le 2. may 1736. <gap unit="word" quantity="3"/></add></p>
+         <p>Et après en avoir pris Les mesures et dimentions pour<lb/>Connoitre ce qui est en Superficie de Cour et Jardin<lb/>distinctement de cequi est en batiment et Fait attention<lb/>a Lestat actuel delad. maison et des <abbr>raparaons</abbr> qui Sont<lb/>a y Faire tout reflechy et murement Consideré Nous<lb/>Lestimons Valoir LaSomme de Seize mille Livres eu Egard<lb/>a Sa <abbr>Situaon</abbr> et Son Estendue et a Laquelité de Ses<lb/>Batiments eu Egard au Cour du temps present et a la<lb/>Charge du Cens Seullement Cy 16000<hi>lt</hi>.</p>
+         <p>Tel est nostre <abbr>Estimaon</abbr> Sauf a Vous<lb/>Monsieur den Juger et ordonner<lb/>Suivant Vostre Justice et prudence ordinaire.<add place="margin" hand="Berville">Quatre notes<lb/>rayé nul</add></p>
+         <p>Fait par nous arb.<hi>te</hi> Expert Susd. Les Jour<lb/>Mois et an que dessus.<lb/>Joubert<lb/>Berville</p>
+         <p><add place="margin">Examinée<lb/>Dechargee<lb/><gap unit="word" quantity="1"/></add></p>
+      </body>
+  </text>
+</TEI>

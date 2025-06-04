@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>X<hi>bre</hi> 1786</p>
+         <p>Estimation d'une maison a Yvry<lb/>Sur Seine depend.<hi>e</hi> dela Su<hi>on</hi><lb/>dela d.<hi>e</hi> V<hi>e</hi> Vavasseur Despierres</p>
+         <p>M Duboiscerf expert m.<hi>e</hi> Piquenon G</p>
+         <p>A m.<hi>re</hi> Denis Francois augrand dalleray ch.<hi>e</hi><lb/>comte <unclear>demaissire</unclear> Et Lieutenant civil dela<lb/>ville prevoté et vicomté de Paris</p>
+         <p>L'an mil sept cent quatrevingt six le Jeudy Sept<lb/>decembre dumatin.</p>
+         <p>Nous Sebastien Jean duboiscerf l'un des Soixante experts<lb/>Jurés du roy et des b.<hi>ts</hi> a Paris</p>
+         <p>Pour l'execution de vôtre Sent.<hi>e</hi> monsieur du 17 9.<hi>bre</hi> 1786<lb/>homologative de l'avis des parans et amis de Louis CLaude Marie<lb/>demonery mineur et de francois prospert Joseph Cautrelle, nicolas<lb/>elizabeth Juvenal Cautrelle, Pierre marie achille Cautrelle<lb/>et Jean francois theodore Cautrelle aussy mineurs, et ala<lb/>requisition du S. francois Louis arnoult ancien m<hi>d</hi> epicier<lb/>a Paris au nom et comme tuteur des d. mineurs.</p>
+         <p><add place="margin">Recu de m Duboiscerf<lb/>deux livres dix sols<lb/>pour une vacat. de<lb/>Banlieu au B.<hi>au</hi><lb/>le 29.<hi>e</hi> X<hi>bre</hi> 1786 <gap/></add></p>
+         <p>Nous nous sommes transporté avec M Denis Joseph<lb/>francois Piquenon greffier des Batiments a Paris en une<lb/>maison située a Yvry Sur Seine dependante delaSucession de<lb/>dame Lucie Charlotee felicité Meusnier decedée V.<hi>ve</hi> de feu S<hi>e</hi><lb/>claude vavasseur desperriers Negotiant a Paris, ayeulle desd.<lb/>mineurs et y etant.</p>
+         <p>Pour l'etablissement dela mission deferée anous<lb/>expert nous avons fait lecture delad. Sentence en La<lb/>quelle sont visées les representations a vous faittes par<lb/>Lesd. <gap/> parens et amis et leurs avis lequel homologuant<lb/>vous avez dit, monsieur.</p>
+         <p>Que led. S<hi>r</hi> francois Louis arnoult en Sa qualité de<lb/>tuteur des d. mineursSeroit et demeureroit Specialement<lb/>authorisé a vendre Sur publication la maison a Yvry Sur<lb/>Seine en La quelle nous Sommes depend<hi>ce</hi> de la Succession de<lb/>la d. d.<hi>e</hi> V<hi>ve</hi> Vavasseur despierres, Visitte et estim.õn<lb/>prealablement faitte dicelle par m Duboiscerf Juré<pb/> expert que vous avez nommé d'office.</p>
+         <p>Les autres authorisations enoncées enlad. Sent.<hi>e</hi> ne Seront<lb/>icy rapportées comme etant etrangers a la mission deferée a<lb/>nous expert <unclear>par icelle</unclear>.</p>
+         <p>Lad. Sent.<hi>e</hi>
+            <gap/> Signée et Scellée et demeurée au<lb/>registre de m.<hi>e</hi> moreau greffier de La chambre civille.</p>
+         <p>Cette Lecture faitte en presence dud. S<hi>r</hi> arnoult aud. nous<lb/>nous expert avons procedé a la visitté delad. maison et avons<lb/><gap/> qqu'elle Conciste ainsy qu'il suit :</p>
+         <p>Description de Lad. maison Rue Liegard.<lb/>lad. maison consiste en un corps de logis Simple enprofondeur de quatre<lb/>croisées de face Sur larue et cinq du coté du Jardin, il est elevé d'un<lb/>rez de chaussé un etage quarré un etage en mansarde et un grenier<lb/>perdu en dessus couvert de thuilles en comble a deux Egoust Simples.</p>
+         <p>Le d. corps delogis en un petit edifice Simple<lb/>de meme alignement tant Sur Larue que Sur le Jardin, elevé de<lb/>Rez de chaussé et un etage Lambrissé Sous Le comble Lequel est<lb/>couvert enthuilles adeux egouts.</p>
+         <p>Font partye du principal corps delogis un Berceau de caves.</p>
+         <p>ensuitte dud. corps delogis en un Jardin Clos demurs<lb/>enSon pourtour.</p>
+         <p>Principal Corps delogis</p>
+         <p>Le Rez de chaussé est distribué en un passage de porte cochere<lb/>adroitte <gap/> une fosse a cheminée, a gauche est la cage<lb/>d'un escalier en oeuvre et une Salle a manger ensuitte.</p>
+         <p>Le passage de porte cochere est pavé de <gap/> plafonné fermé<lb/>d'une porte d'assemblage a deux venteaux <unclear>et guichets</unclear>.</p>
+         <p>La Salle a droitte dud. passage est carrelée en terre cuitte et<lb/>apoutre et Solives app. exlairée d'une <unclear>cage</unclear> de croisée Sur Le jardin<lb/>et fermée de porte pleine.</p>
+         <p>La Salle a manger est carrelée en terre cuite plafonnée eclairée<lb/>Sur le jardin par deux <gap/> de croisées garnyes de chassis ouvrant a<lb/>carraux de verre ferrés <add place="margin">d'espagnolettes</add> couvrantes <pb/> en dehors, ala cheminée un chambranle une tablette de pierre,plaque<lb/>deferfondu au contrecoeur ; Lad. Salle en lambrissée entout Son<lb/>pourtour et hauteur d'un lambris demenuiserie a paneaux de<lb/>hauteur d'etage dont partye forme devanture de buffet, ouvrante<lb/>en deux partyes Sur la hauteur chacune a deux vanteaux ; a<lb/>droitte deLa cheminée un Bar de Buffet en forme de coin.</p>
+         <p>L'etage quarré est distribué en une Salle de compagnie et<lb/>une chambre a coucher degagée par le paslier de l'escalier<lb/><unclear>letoure</unclear> carrelé enterre cuite plafonné eclairé vers le Jardin et<lb/>vers la rue par Bayes de croisées garnyes de chassis a carraux<lb/>de verre ouvrant a deux venteaux avec <unclear>contreventes</unclear> au dehors<lb/>L'etage en mansarde est distribué en trois chambres<lb/>dont une Seulle a cheminée Le tout est carrelé enterre cuitte<lb/>plafonné lambrissé eclairé tant Sur la rue que Sur le Jardin<lb/>par Bayes delucarnes garnyes de chassis ouvrant a carraux de<lb/>verre et fermée de portes plaines.</p>
+         <p>Le petit edifice Joignant le d. corps delogis et d'alig.<hi>t</hi><lb/>a iceluy est appliqué aurez de chaussée a une cuisine avec<lb/>cheminée four fourneau potager et pierre a laver, porte<lb/>d'entrée sur le Jardin et une autre de communication ala<lb/>salle a manger ; a coté un reduit ausage de bucher dans<lb/>lequel est un puits mitoyen, une auge de pierre a coté.</p>
+         <p>Le Jardin est clos de murs en son pourtour garny de<lb/>ceps de vignes et quelques arbres fruitiers, au fond un<lb/>Berceau entreillages de <unclear>belle</unclear> valeur, le milieu est distribué<lb/>en quatre quarrée dont les 2 premiers Murs le Batiment sont<lb/>a usage de partere les 2 autres a usage de potager bordés<lb/>de Bayes et plantés de plusieurs arbres fuitiers a basse tige<lb/>dans Led. Jardin un petit edifice ausage de cabinet dais<hi>e</hi>,<lb/>couvert enthuilles.</p>
+         <p>Tenant La d. maison et dependance d'un coté a droitte<lb/>au Sieur remon et autiers, d'autre coté a gauche Su petit<lb/>d'un Bout par derriere au prince de Crouy.</p>
+         <p>Pour parvenir a L'estimation de Lad. maison et connoître<lb/>l'etendue de Son emplacement nous avons procedé a en prendre<lb/>les mesures et à faire un esquisse du plan figuré d'iceluy Sur<lb/>Lequel nous avons distingué ce quiest au Jardin d'avec ce qui<pb/> est en Batiment fait les calculs distinctes de chaque Superficie<lb/>d'apres Les d. mesures ; nous avonsfait attention a son etat<lb/>consistance et distinction a la nature de Sa construction aux<lb/>reparations qui sont a y faire, a l'etendue et figure de son<lb/>emplacement, aurevenu quelle est susceptible de produire et au<lb/>quartier ou elle est Située, nous avons mis des prix particuliers<lb/>tant au fond duterrain qu'a La Superficie des B.<hi>ts</hi> eû egard<lb/>a ce que dessus.</p>
+         <p>Touttes considérations faittes nous prisons<lb/>et estimons Lad. maison, circonstance et<lb/>dependance d'icelle, en l'etat qu'elle Se<lb/>poursuit et compote et qu'elle est decritte au<lb/>present rapport, a la charge du cens et des<lb/>droits royaux Seigneuriaux et autres et au<lb/>cours du tems presentLa Somme de quattre<lb/>mille Six cent livres. cy<lb/>4600 <hi>lt</hi></p>
+         <p>Telle est, monsieur, visitte par nous faitte de Lad. maison<lb/>tel est notre avis Sur la valeur d'icelle Suivant et aux termes<lb/>dela Sent<hi>e</hi> sui nous a commis.<lb/>Fait par nous expert Susd. lesd. Jour mois et an.</p>
+         <p>Duboiscerf<lb/>Piquenon</p>
+         <p>Examiné et Déchargé<lb/><gap/></p>
+         <p>Bon pour La So.<hi>e</hi> de trente trois livres dix neuf Sols conforme a la quitance ensuitte<lb/>de <gap/> Le <gap/> X<hi>bre</hi> 1786<lb/>Berenger</p>
+         <p>Il a été payé Six Livres pour une Vacat. de Baulieu et huit Sols<lb/>au <gap/> X<hi>bre</hi> 1786.<lb/>Berenger</p>
+         <p>Plus le meme Jour Il a été payé quatre Livres douze Sols<lb/>pour Les huit Sols pour Livres.<lb/>Beranger</p>
+      </body>
+  </text>
+</TEI>

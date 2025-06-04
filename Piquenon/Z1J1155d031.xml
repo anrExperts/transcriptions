@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>22 7.<hi>bre</hi> 1786<lb/>Visitte d'un puits en<lb/>une maison rue de Picpus<lb/>F. S.<hi>t</hi> Antoine app.<hi>e</hi> a<lb/>la V.<hi>e</hi> Chatelt et<lb/>Consorts</p>
+         <p>M.<hi>e</hi> Dumont et Taboureur exp. M.<hi>e</hi> Piquenon G</p>
+         <p>A M<hi>re</hi> Denis francois Agram dalleray ch.<lb/>Comte de maissis &amp;ce. Lieutenant civil<lb/>de La Ville prevoté et vicomté de Paris.</p>
+         <p>L'An mil Sept cent quatrevingt Six le vendredy vingt deux Septembre<lb/>Huit heures du matin.</p>
+         <p>Nous Jean Charles Dumont l'un des Soixante experts Jurés du Roy<lb/>et des B.<hi>ts</hi> a Paris et Sieur Taboureur Conseiller arch.<hi>e</hi> du Roy<lb/>maitre general des B.<hi>ts</hi> ponts et chaussées de france et expert<lb/>Juré du roy et des B.<hi>ts</hi> a paris</p>
+         <p>Pour l'examion de Vos ordonnances monsieur des<lb/>23 aout et 9 7.<hi>bre</hi> 1786 duement Signées Scellées et <gap/><lb/>etat au forme executoire et Satisfaire aux Sommations a<lb/>nous faittes en consequence a larequête de d.<hi>lle</hi> Denise Duval V.<hi>e</hi><lb/>du S.<hi>r</hi> etienne francois chatelet et du S.<hi>r</hi> Chatelet fils, par<lb/>emploit de Louis Charles Vandry huissier a Cheval au Chatelet de paris<lb/>du 19 7.<hi>bre</hi> present mois duement cont.<hi>lé</hi></p>
+         <p>Recu chacun dix Livres<lb/>pour notre <gap/> de<lb/>deux vacations de<lb/>Banlieu.<lb/>Dumont<lb/>Taboureur</p>
+         <p>Nous nous Sommes transporté avec M.<hi>e</hi> Denis Joseph francois<lb/>Picquenon greffier des B.<hi>ts</hi> a paris en une maison Située a<lb/>Paris rue de picpus fauxbourg S.<hi>t</hi> antoine hors barriere app.<hi>e</hi><lb/>a lad. d<hi>e</hi> V.<hi>e</hi> Chatelet et aud. S<hi>r</hi> Chatelet en y etant.</p>
+         <p>Est Comparu lad. d<hi>e</hi> V<hi>e</hi> Chatelet Laquelle assistée de m.<hi>e</hi><lb/>Pasté Le Jeune Son p.<hi>r</hi> en <gap/> Le d.<hi>eur</hi> Pasté J.<lb/>p.<hi>l</hi> du S<hi>r</hi> Chatelet fils nous arequis de proceder Suivant et<lb/>aux termes des ordonnances Sus dattées qui nous ont conduit<lb/>a lavisitte du puits dont est question, de constater Son etat, d'ou<lb/>provient la deteriorité d'iceluy, de constater les mal facons<lb/>qui sy trouvent, ce qu'il sera necessaire de faire pour mettre en<lb/>etat de Solidité convenable La construction dela maconnerie<lb/>dud. puits, de constater aussy les reparations qui restent a faire<lb/>en celles qui Sont deja faittes et de dresser procès verbal de<lb/>nos operations pendant le cours des quelles elle Se reserve de<lb/>nous faire Les observations dites et ce qui étoient qui luy<lb/>paroitront Convenables : a l'effet desd. operations led.<lb/>m.<hi>e</hi> Pasté nous a remis les expeditions en <gap/> des<lb/>deux ordonnances Susdattées duement Signées et Scellées.</p>
+         <p><add>Recu de M<hi>r</hi> Dumont<lb/>et Taboureur, de chacun<lb/>cinq Livres pour deux vacations de Banlieu<lb/>au B.<hi>au</hi> Le 29 X<hi>bre</hi><lb/>1786 Marchand</add></p>
+         <pb/>
+         <p>L'original des exploits de Sommations a ce jourdhuy lieu<lb/>et heure faittes aux <unclear>domiciles</unclear> tant des noms et puits<lb/>qu'a celuy du S<hi>r</hi> roussia et Sa femme maitre macon repres<lb/>entant Le feu S.<hi>r</hi> Desdoigtil ; Plus la memoire des ouvrages<lb/>de menuiserie faites par le feu S<hi>r</hi> Desdoigtil en 1777 en<lb/>retablissement du bas dud. puits, celuy de charpente faite<lb/>a meme occasion et epoque contenant La fourniture d'un<lb/>rouet neuf, celuy des ouvrages de Serrurerie aussy faites<lb/>alameme epoque et pour Le meme objet, et enfin celuy<lb/>des epuisements faits lors et a l'occasion des memes<lb/>ouvrages et a Lad. dame V.<hi>e</hi> Chatelet assistée v.<hi>e</hi><lb/>dessus Signé Sont touttes reservées en presentation necessaire<lb/>et de droit.<lb/><gap/> veuve Chatelet<lb/>Pasté.</p>
+         <p>Est aussy comparu le S.<hi>r</hi> francois <unclear>Sa Roussia</unclear> und macon<lb/>entrepreneur de B<hi>ts</hi> a Paris y demeurant rue des <unclear>monaindiers</unclear><lb/><unclear>Jusse S.<hi>t</hi></unclear> Paul, au nom et comme tuteur des enfans mineurs<lb/>de Jean Desdoigtil aussy und. macon a Paris, lequel assisté<lb/>de M.<hi>r</hi> Desprez de Bretigny Son procureur au chatelet de<lb/>Paris nous a dit qu'il compare au <gap/> de la <unclear>Soumarion</unclear><lb/>a luy faire par l'exploi Susdattée et courent l'execution<lb/>des ordonnances il fait par nous experts procedé aux operations<lb/>ordonnées par icelles, et Singulierement que nous ne<lb/>constations Si la <unclear>defectans</unclear> été dupuits dont est question<lb/>procede de malfacons lors du retablissement diceluy<lb/>ou icelle procede de touttes autres causes, Survenant de<lb/>nous faire pendant le cours de nos operations les obervations<lb/>dires et requisitions qu'il appartiendra et quil croira<lb/>necessaireset asigné avec Le dem<hi>r</hi> Desprez de Bretigny<lb/>Sous touttes reserves et protestations necessaires et de droit.<lb/><gap/></p>
+         <p>Pour l'etablissement dela mission deferré a nous<lb/>experts nous avons fait Lecture des pieces cy apres, a<pb/> nous remises par led. <gap/> Pasté le jeune aud.<lb/>nous.</p>
+         <p><gap/>
+            <unclear>dellacapedition</unclear> du premier procés<lb/>verbal de referés fait en votre hates et pardev<lb/>ant Vous monsieur le 23 aout 1786 Il <unclear>contient</unclear> La<lb/>comparution de M.<hi>e</hi> Pasté Le jeune p.<hi>r</hi> de d.<hi>me</hi> Dainduval<lb/>V.<hi>e</hi> d'etienne francois Chasselet tous enSon nom <gap/><lb/>deLa communauté debiens qui a été entre elle et Son<lb/>deffunt mary que aucune histoire deleurs enfans<lb/>mineurs, et <gap/> duS.<hi>r</hi> Jacques francois Chastelet<lb/>majeur heritier </p>
+      </body>
+   </text>
+</TEI>

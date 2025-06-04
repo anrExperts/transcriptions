@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>29. Juin 1736<lb/>alignement de Murs<lb/>Rüe S.<hi>t</hi> Deniers<lb/>Entre la dame<lb/>V.<hi>e</hi>
+            <unclear quantity="1" unit="word">Bouges</unclear> et Le<lb/>S.<hi>r</hi> Volans<lb/>M<hi>r</hi> Puifieux<lb/>Expert<lb/>Berviller Greffier.</p>
+         <p>Payé<lb/><gap quantity="1" unit="word"/></p>
+         <p>Aujourdhuy Vendredy Vingt Neufieme jour<lb/>de Juin mil Sept cent trente six deux heures de<lb/>Relevée.</p>
+         <p>Nous jean Baptiste Puifieux architecte Expert<lb/>Bourgeois enconsequence dela Requisition Verballe<lb/>a Nous faite par les parties Cy apres Nommées<lb/>Sommes transportéz avec S<hi>r</hi> jean Guillaume<lb/>Berville greffier des Batiments a Paris en Une<lb/>Maison Scize Rüe S<hi>t</hi> Denis appartenante auSieur<lb/>Denis Volant Marchand aparis ou Estant Est<lb/>Comparus Ledit frère Volant Et Dame Marie Palle<lb/>Veufve de francois <unclear quantity="1" unit="word">Bouges</unclear>
+            <abbr>ppre</abbr> dune autre maison<lb/>Joignante et De celle ci devans Ditte et cyla<lb/>quelle Nous Sommes Separées L'une de Lautre<lb/>par un mur mitoien Lesquelles parties Nous ont<lb/>Premiere Vu acte Soussignature privée endatte<lb/>du 26 <abbr>dupar</abbr> mois controllé Levingt Huit<lb/>par lequel <unclear quantity="1" unit="word"><abbr>appars</abbr></unclear> que lad. Dame Veufve Bouges<lb/>et ledit Sieur Volant Nous ont donné pouvoir<lb/>de Voir et visiter Ledit mur mitoien Separant<lb/>leurs dites maisons et Notemment dans lapartie de<lb/>lasalle dud. S.<hi>r</hi> Volant et des magazines de laditte<lb/>Veufve Bouges haporter lestat dudimur endonnent<lb/>lalignement establit sa Construction et aquels frais<lb/>Il doit estre Reconstruit avec <gap quantity="1" unit="word"/> de<pb/>
+            <unclear quantity="1" unit="word">Seu</unclear>Raporter atout cequi feroit fait etReglé<lb/>par Nous Experts Lequel pouvoir Nous avons<lb/>annexé ala presente minutte pour Sibesoin est il<lb/>avoit Recourt.</p>
+         <p>Apres Laquelle Lecture ainsi faite Nous avons<lb/>enpresence desd parties asistés du S<hi>r</hi>
+            <gap quantity="1" unit="word"/> Leur<lb/>Entrepreneur fait LaVisitte dud mur queNous<lb/>avons trouvé dans toutte Lalongueur deladitte<lb/>Salle considerablement <unclear quantity="1" unit="word">Bouilé</unclear> fractionné et salpestré<lb/>de tres ancienne et Mauvaise construction <unclear quantity="1" unit="word">huist detax</unclear><lb/>de pouvoir subsister même enperil Eminent dans lahauteur<lb/>de l'estage du Rez de Chaussée et avons observé quedans<lb/>Ledit Mur il ia une jambe souspoutre pareillement<lb/>Deversée et de Nulle valeur Laquelle sera aSoutenir<lb/>lapoutre duplancher haut de la salle dud Sieur Valaut<lb/>pourquoi est Necessaire même indispensable <unclear quantity="1" unit="word">detaies</unclear><!--Je pense qu'il s'agit d'une abréviation--><lb/>Lesplanchers des p.<hi>ers</hi> estages de Lun et lautre Costé<lb/>dud. Mur Le Demolir et Reconstruire aNeuf<lb/>enla hauteur dud Estage Le Surplus en Amont<lb/>Nous aiant parut Dassez bonne Conctruction et<lb/>en Estat de subsister Lequel mur sera Reconstruit<lb/>Avec Leur Moilon <unclear quantity="1" unit="word">dud</unclear>
+            <unclear quantity="1" unit="word">Effenillé</unclear> maconné enplastre<lb/>et Rocaillé des deuxcostés afrais communds des<lb/>parties Chacunes pour moitié et aLegard dela<lb/>jambe Souspoutre de pierre qui est dans<pb/> Ledit Mur Laplus valleur et taille depierre enSera<lb/>paiée aux frais etdepens Seuls dud S.r Volant<lb/>Et Les estajements et Retablissements faits chacuns <add>endroit Soi Et</add><lb/>de son costé suivant L'usage.</p>
+         <p>Et pourquil Nesoit fait aucune Anticipation<lb/>Sur Lheritage d'aucune des parties Nous en<lb/>avons pris et donné lalignement pour aquoi<lb/>parvenir Nous avons fait tendre uneligne<lb/>le long et audevant dudit<lb/>Mur parle moien de laquelle Nous avons<lb/>Reconnu quil est originairement d'un Droit alignement<lb/>Sans plier Ni Coude et pour qu'il Soit assis etplanté<lb/>Sur ses enciens vestiges <add place="margin">il Sera Erigé<lb/>du Costé de la<lb/>porte D'entrée<lb/>a quatre pouces<lb/>de distance Et<lb/>intervalle</add><lb/><add>D</add>Un trait aplomb en forme de Croix <add>que Nous avons<lb/>fait Et Gravé</add> sur une Assise<lb/>depierre de <unclear unit="word" quantity="1">Lenvignure</unclear> dud. mur duCosté delaporte<lb/> qui Ne Sera point Demolie et par lautre bout <add place="margin">a Seize pieds trois<lb/>pouces Neuf lignes<lb/>de distance et<lb/>intervalle d'un <lb/>pareil trait a<lb/>plomb enforme<lb/>decroix que Nous<lb/>avons Gravé <!--On parvient à deviner mais il y a un bout du papier déchiré--></add><lb/>n'est et par LECosté de lad. Dame Bouges<lb/>qui Sera de 12 p.<hi>d</hi> depess.<hi>r</hi><!--abréviations--> Ainsy que Nous lavons<lb/>Reconnüe parles tranchées que Nous avons fait faire<lb/><add place="margin">Scize</add> pieds trois pouces Neuf lignes de <unclear>Nud au Nud</unclear> des moilons<pb/>Acet Effet attentu que ledi alignement a Esté<lb/>pris et donné par leCosté dudit Sieur Volant<lb/>Comme plus Commode et Moins Embarassé<lb/>Et Les Repaires ainsi marquéz<lb/>fait par Nous Architecte Expert Susdit Le<lb/>jour Mois et an quedessus.</p>
+         <p>Puisieux</p>
+         <p><gap quantity="1" unit="word"/></p>
+         <p>Controllé a Paris Le 7 Juillet 1736<lb/>R. Rouze <gap unit="word" quantity="1"/></p>
+         <p>Examinée Dechargée<lb/><gap unit="word" quantity="1"/></p>
+      </body>
+  </text>
+</TEI>
