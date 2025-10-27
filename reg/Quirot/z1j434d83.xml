@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>https://experts.huma-num.fr/xpr/expertises/z1j434d083/view</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>6.<hi>e</hi> Septembre 1696<lb/> rue du Mouton</p>
+         <lb/>
+         <p>Messier delespine<lb/> et Joubert Expertz</p>
+         <p>Lan mil Six cent quatre vingt Seize le Jeudy<lb/> Sixieme Jour du moiz de Septembre deux heures de <supplied
+            reason="inkblot"
+            >relevé</supplied><lb/>Nous Nicolas delespine architecte <!--On passe de la main de Villain à la main de Quirot je pense-->du Roy Expert Juré bourgeois<lb/> deparis etdoien des Soix<hi>te</hi> Experts <unclear
+            quantity="1" unit="word"
+            >creez</unclear> en Titre doffice par Sa majeste et <lb/>Doien des Jurez Entrepreneurs nommez et Convenus Scavoir moy Delespine<lb/> pour M<hi>re</hi> Jean Dreux chevallier Seigneur <unclear
+            unit="word" quantity="1">de Crenilly</unclear> capitaine <unclear quantity="1"
+            unit="word"
+            >des Rolz</unclear><lb/> pour Corneille de lagrande fauconnerie du Roy propriettaire d'une maison<lb/> Scize rüe du Mouton d'Une part et moy Joubert par Dame marie Prevost<lb/> V<hi>e</hi> de Messire baudoin con.<hi>s</hi> Secretaire du Roy maison Couronne de france<lb/>et des finances propriettaire d'une autre maison <abbr>Joign<hi>te</hi></abbr> a Celle dud. S.<hi>r</hi>
+            <unclear unit="word" quantity="1"
+            >deCroix</unclear><lb/>dautre Sommes avecq Legreffier Souss.<hi>né</hi> Transportez En et audedans des Susd.<lb/>maisons ced. Jour et heure quedessus ou estans enpresence des S<hi>rs</hi> miché et<lb/>Herbet Entrepreneurs des Susd. partyes fait Lecture des pouvoirs anous<lb/>donnez endatte du 4.<hi>e</hi> 7.<hi>bre</hi> present mois et an fait Sous Signature privéé des<lb/>partyes Lesquels nous avons <unclear
+            quantity="1" unit="word">Enaxé</unclear> alapres.<hi>te</hi> maison pour y avoir recours en cas <lb/> de besoins lesquels seront transcrits en fin des Expeditions qui en seront délivréés<lb/> et pour lexecution desquels nous avons audesire dIceux fait etDressé notre present<add
+            hand="Quirot" place="margin">rapport recu par le<lb/> greffier Souss.<hi>ne</hi> ainsy<lb/> quil ensuit,</add></p>
+         <p><!--Changement de main on revient à M. Villain-->Premierement Nous sommes descendues dans la fosse<lb/> d'aisance dela maison dud. Sieur drieux de Crenilly laquelle fosse<lb/> Est sous un salle En aille delacour delad. maison alaquelle<lb/> fosse nous Avons trouve <add hand="Villain" place="margin">que le premier rand <unclear quantity="1" unit="word">demoelon</unclear> dela fondation</add> du <del extent="1" unit="words"/> moitoyen <del extent="1" unit="words"/> est <lb/> Elevé audessus <add place="top" hand="Villain">deLaine</add> de la fosse de la maison dud. Sieur dreux de Crenilly<lb/> de deux pieds Et demy laquelle fosse Est construitte demurs au<lb/> pourtour de forme circulaire <del extent="1" unit="words"/> Surlaquelle sont trois arcs<lb/> quy Estoient couverts de dalle depierre, Nous avons aussy observé<lb/> que laire dela cave dela maison de madame beaudouin audessous<lb/>dela cour Est Eslevé de 2p. plus hault que le bas dela fondation dud.<lb/>mur la Voulte delaquelle cave Est passé surlad. fondation et sans<lb/>Contremur contre lad. fondation, Avons Ensuitte faict tirer deleau<lb/> dupuis dela maison delad. dame beaudouin lequel passe dans lad.<lb/>Cave et trouvé lad. Eau rousse et quy nous aparu penetré d'Urines<lb/> Et pour connoistre Sy lesd. Urines viennent dela fosse dela <add place="inspace">fait en 12 <unclear>Rolles</unclear> ce 8 8<hi>bre</hi> 1696</add>.<pb/><del extent="5" unit="words"/> dud. Sieur de Crenilly Nous Avons dit<lb/>aud. Sieur herbet Entrepreneur dud. Sieur deCrenilly<del extent="2" unit="words"/><lb/> que Nous nepouvons enlestat ou Est lad. fossedel extent="1" unit="words"/><lb/> avoir lad. Conoissance quil <unclear quantity="1" unit="word">nage</unclear> demoly lad. fosse audroit<lb/>dud. puis et faict Estayer sufisemment pour mettre les lieux<lb/>Ensurté apres quoy il nous Endonnera advis Et cepandant pour<lb/>Surté dud. mur moityen qui a Esté repris parled. S.<hi>r</hi> herbet<lb/>dans la haulteur delaplus basse fondation puisque sous<lb/>les premiers moilons delencienne fondation, et a fin de<lb/>Soutenir led mur quy est alaire Nostre advis Est qu'avan de<lb/>demolir Ce bout dela fosse audroit dud. puis Il Est apropos<lb/>de Continuer lad. reprise EnCommancée Enla longueur delad<lb/>fosse Et de lespoisseur quil Est depresent compris enpattemd<lb/> enla haulteur de 8p. a prendre dudessous dela Vieille fondation<lb/>dud. mur, laquelle fondation sera reconstruitte deneuf en<lb/>lad. longueur Et haulteur a Commun frais des partyes Chacun<lb/> pour moitié En faisant les Estayemens Chevallement Et<lb/> restablissement chacun Endroit Soit Et deson costé Suivant<lb/> lusage aumoyen dequoy Nous Estimons que lad. Voulte<lb/>peut demeurer Enlestat quelle Est Sans Contremur jusque a<lb/>nouvelle construction, comme aussy queles Sollives du<lb/> premier plancher ducorps delogis En aile dela maison dud.<lb/>Sieur de Crenilly resteront portez dans led. <del extent="1" unit="words"/> mur<lb/>moitoyen Et ne Sera aussy payé aucune charge pour<lb/>lelevation du baltiment dud. Sieur de Crenilly pour cequil<lb/>Enpouvoit de Voir atandu quil ne Sera faict aucun contremur<lb/>pour porter lad. Voulte comme Elle Est depresent,<lb/>faict parNous Experts Susd. Et Soussignés Les Jours mois <lb/>Et <unclear quantity="1" unit="word">anque dessus</unclear>,</p>
+         <signed>DeLespine</signed> <signed>Joubert</signed> <signed>Villain</signed>
+         <p>Et Le Mercredy troisiesme Jour Dumois doctobre aud. an mil Six<lb/>Cent quatre Vingt Seize <add>deux heures<lb/>de relevées</add>Nous Expertz Sus. Sommes avec legreffier<lb/>Soussigniez transportez En Et audedans des maisons des partyes ou<lb/>Estant Enpresence de Mons.<hi>r</hi> herbert aussy Expert Juré Et Entrepreneur<lb/>de Monsieur de Crenilly Sommes descendues Enla Cave Et fosse<lb/>daisance Enquestion<pb/> Et avons En Nos presences faict commencer Les fouilles<lb/>audroit dela fosse Et ordonné de faire Scelle audroict<lb/>du puis aquoy la Vacation fust Consommée Avons<lb/>remis Et Continué lassignation pour donner Nos advis<lb/> Lors que Nous aurons Esté <gap quantity="1" unit="word"/> que lesd. fouilles<lb/>seront faict pour conoistre Sy Les Matieres delad. fosse<lb/><add hand="Villain" place="inline">ont</add> infectes les Eaux dud. puis Enquestion Et Nous <lb/>Sommes retirez.</p>
+         <p>Delespines Joubert</p>
+      </body>
+   </text>
+</TEI>

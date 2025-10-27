@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>28.<hi>e</hi> Juillet 1706</p>
+         <p>A. M.<hi>r</hi> Zacarie Perollé Conseillé du Roy<lb/>Lieutenant generalle au Baillage de Lartillerie de france<lb/>Aujourdhuy Jeudy vingt huitiesme du<lb/>mois de Juillet mil Sept Cens Six deux heures derelevée</p>
+         <p>Nous Jacques Miché Expert Juré du roy Nommé doffice par vous Mons<hi>r</hi><lb/>Sur la Contrarieste <gap quantity="1" unit="word"/> des Sieurs Cudeuil Et Chastelain premiers Experts<lb/>par Vostre Sentence du douziesme du present mois Etan de vous rendre<lb/>Monsieur Entre pierre LeCointre maistre tapissier aparis demeurant dans<lb/>Lenclos de larsenal tandante a ce que atandu laContrariesté quy se<lb/>rencontre dans lerapport fait le <unclear unit="word" quantity="1">15</unclear>.<hi>e</hi> fevrier dernier parlesd. Sieurs premiers<lb/>Experts pour Et aleffet de faire laVisittation des lieux presens<lb/>Et Estimation des loyers En question quil soit par vous Monsieur<lb/>nommé un tiers Expert doffice, Et En Corre led. S LeCointre demandeur<lb/>En Execution de vostre Sentence du 26.<hi>e</hi> du mois davril dernier, Et aux<lb/>fins de<gap quantity="1" unit="word"/> du 10.<hi>e</hi> du present mois aceque  <unclear unit="word" quantity="2">Sen Sarester</unclear> aux lettres dEstat<lb/>obtenue <abbr>pareil<hi>t</hi></abbr> deffandeur cy apres <unclear unit="word" quantity="1">Somme</unclear>, vostre sentence du 26.<hi>e</hi> avril<lb/>dernier Enceuté avec despans, dune part, comme Messire<lb/>de Mormé chevallier Marquis de S. hillere maréchal de Camp Et lieutenant<lb/>General dartillerie deffandeur, Et icelle Sentence rendue pardeffance contre<lb/>luy dautre part, parlaquelle vous <orig>avée</orig> Monsieur Entre autre chauses<lb/>ordonné Monsieur, quil sagit deloyer demaisons demandée<lb/>Surquoy vous <orig>avée</orig> dabondant dit que vos Sentences Seraient<lb/>Enceutée Et Suivant icelles quil Sera procédé alaprisée Et<lb/>Estimation desd. loyers Enquestion par Nous Miché que vous <orig>avée</orig><lb/>Monsieur Nommée doffice, pour lexecution delaquelle Sentence du<lb/>douziesme des presens mois Et an Et suivant la sommation allons<lb/><unclear unit="word" quantity="1">faicte</unclear> ala requeste dud. Sieur pierre LeCointre Le Jour dhyer par<lb/>Enploict de denis huissier audiancier Et priseur aubaillage delartillerie<lb/>Somme cejourdhuy alad. heure que dessus transportez Enla maison<lb/>ocuppée parled. Sieur des<hi>t</hi> hilaire Scize dans lenclos dud. arcenal ou<lb/>Estans Enlabsence du Sieur des<hi>t</hi> hilaire Et des Sieurs Cadenille Et Chatellain<lb/>quy nesont venus ny Comparus quoy que assigné Acenty quil<lb/>nous aparoist parla mesme sommation quy nous a Esté donné<lb/>parled. denis huissier<add place="margin" hand="Villain">Et lapresence du<lb/>Sieur Lecointre</add> Et apres les avoir atandu Jusque aquatre heures<pb/> Sonnée Sans quils Soient venue ny Comparus, Nous avons faict lecture<lb/>dela Sentence delexecution delaquelle il sagit<add>deplusieurs<lb/>autres Sentences<lb/>anous <unclear unit="word" quantity="3">mis En mains</unclear></add> Et duproces Verbal faict<lb/>parlesd. Sieurs premiers Experts Sy devant datté Et Ensuitte Sommes<lb/>montez dans les deux chambres de madame des.<hi>t</hi> hilaire Et avons trouvé que<lb/>la declaration quy En a Esté faicte parlesd Sieurs premiers Experts, Est<lb/>Conforme a Lestat desd deux chambres dont Est question Entre les<lb/>partyes Et apres les avoir veu Et consideré Et Examinéé Nous avons<lb/>prisez Et Estiméé le loyers dicelles par chacune année Lasomme de<lb/>Cent livres pour lesd. deux chambres atandu leurs grandeur Et Superficie<lb/>Eu Esgard aulieu Et Endroit ou Elles Sont scituéé cy<lb/>ceque Nous vous Certiffions vray Monsieur Et Est Nostre avis,<lb/><unclear unit="word" quantity="1">Sauf</unclear> avous monsieur den ordonner Scelon vostre prudence Letout<lb/>aytn Esté parnous faicte surle lieu presence lad. damoiselle Basille<lb/>Et led. Sieur LeCointre, Le Jour Mois Et an que dessus,</p>
+         <p>Michée</p>
+         <p>Villain</p>
+      </body>
+  </text>
+</TEI>

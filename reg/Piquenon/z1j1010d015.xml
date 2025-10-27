@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p>X<hi>bre</hi> 1776</p>
+         <p>Visitte de constructions necessaires<lb/>a faire Sur un terrain Situé<lb/>a Paris Rue des Postes ap.<hi>t</hi><lb/>a m.<hi>e</hi> Boiste de Richemont<lb/>av.<hi>t</hi> au Parlement</p>
+         <p>M. Taboureur exp. M Piquenon greffier.</p>
+         <p><!--REPRENDRE--></p>
+         <p>L'An mil Sept cent Soixante et Seize Le Mardy dix<lb/>decembre huit heures du matin.</p>
+         <p>Nous Pierre Taboureur Arch. expert Bourgeois<lb/>des B.<hi>ts</hi> a Paris.</p>
+         <p>Pour L'execution de Vôtre ordonnance, monsieur<lb/>du 5 X<hi>bre</hi> 1776 etant ensuitte de la requête a vous<lb/>presentée par m.<hi>e</hi> Simon Boiste de Richemont avocat<lb/>au Parlement et a Sa recquisition.</p>
+         <p>Nous nous Sommes transporté avec M. Denis Joseph<lb/>Francois Seigneur greffier des B.<hi>ts</hi> a Paris Sur un<lb/>terrain dependant d'une maison située a Paris Rue des<lb/>Postes prés La Visitte Estrapade app.<hi>e</hi> aud. m.<hi>e</hi> Boiste<lb/>de Richemont <unclear>ou</unclear> y etant.</p>
+         <p>Recue de M. taboureur<lb/>deux Livres pour une<lb/>Vacation. au <unclear>B.</unclear><lb/>Le 17 May 1777<lb/><gap/></p>
+         <p>Pour L'etablissement de la mission deferée<lb/>a nous experts nous avons fait Lecture de lad. requête<lb/>Par La quelle Led. M.<hi>e</hi> Boiste de Richemont nous<lb/>a <gap/> quil fait construire un batiment Sur Le<lb/>terrain de la maison cy dessus designée, et qu'il a<lb/>besoin, pour acquerir un privilege aux ouvriers<lb/>entrepreneurs de faire constater Létat des lieux, aux<lb/><gap/> des Reglements, et vous a Supplié quil vous<lb/>plaît, Monsieur, Luy permettre de faire transporter<lb/>en lad. maison tel architecte Juré expert quil vous<lb/>plairoit nommer a <unclear>l'effet</unclear> de constater L'etat une<lb/>Valeur du terrain ou il fait faire et Se dispens de<lb/>faire Lesd. Constructions, Le tout en la <gap/><lb/>accoutumée et conformement aux reglements<lb/></p>
+         <p>Lad. Requête figurée demd. Phelippon p.<hi>s</hi>.</p>
+         <pb/>
+         <p>Ensuitte en Votre ordonnance, monsieur, contenant<lb/>permission de faire Visitter Led. terrain par nous taboureur<lb/>Arch.<hi>e</hi> expert.</p>
+         <p>Que nous ferions rapport de l'etat et Valeur dudit<lb/>terrain ; ensemble des constructions necessaires a y faire.</p>
+         <p>Attendu qu'il ny a minutte desd. Requête une<lb/>ordonnance nous les avons ammenées a la presente, apres<lb/>avoir été de nous et du greffier Signé et paraphé<lb/>pour y avoir Recours dans tous Les tems parcequ'il<lb/>appartiendra.</p>
+         <p>Elle comparu Led. M.<hi>e</hi> Boiste de Richemont<lb/>Lequel nous a Requis de proceder Suivant et aux termes<lb/>de l'ordonnance qui nous a convié a la visitte du<lb/>terrain dont est question, constater les constructions necessaires a<lb/>y faire et de <gap/> procés verbal deux opérations, nous<lb/>declarant que luy paroissant qu'aucun interet ny de Sa part<lb/>ny dela part qui de qui que ce soit ne determine a connoitre<lb/>la valeur duterrain sur lequel les constructions Sont a faire<lb/>il consent qu'il ne soit fait par nous auncune estimation<lb/>d'iceluy quant apresent et a Signé.<lb/>Boiste De Richemont.</p>
+         <p>Ce fait nous avons procedé ala visitte delad. maison et<lb/>avons reconnû qu'elle consiste en un corps delogis Sur La rue<lb/>Simple en profondeur elevé de rez de chaussée deux etages<lb/>quarrés grenier eu dessus couvert de thuilles encomble a deux<lb/>egouts.</p>
+         <p>Une cours ensuitte pavée de grain : a droitte et a gauche <lb/>sont deux ailes de Batiments entoute de pareille elevation<lb/>que celuy Sur Larue et couverte de thuilles en appents</p>
+         <p>Au fond delad. cours une cours d'appuy Sur Lequel est<lb/>une grille de Bois.</p>
+         <p>Ensuitte delad. cours au Jardin dans Lequel est un<lb/>edifice adossé au pignon de l'aile a droitte dela cours il<lb/>est elevé d'un rez de chaussé Souterrain un etage quarré<lb/>un grenier au dessus couvert en thuilles a deux egouts<lb/>Le Surplus du terrain est clos par des murs faisant hache<lb/>qui separent Lad. Jardin ; ne terrain S'etend Jusqu' alarue<lb/>del'entrepade Sur Laquelle il fait face et Sur cette partye en<lb/>un puits.</p>
+         <p>En aile a gauche du jardin cy dessus declaré et un<lb/>ancien edifice de cinq croisées de face qui aroit avoir été<lb/>elevé avec <gap/> d'un rez de chaussé dun etage quarré <pb/> et comble au dessus couvert dethuilles.</p>
+         <p>Le comble de cet edifice est demoly et Sur<lb/>les anciens murs il se fait actuellement une<lb/>Sur les <gap/> et des percements de croisées en<lb/>moelons et platre de Sorte qu'en la face <gap/><lb/>le Jardin le mur neuf et surelevation  sur<lb/>l'ancien <unclear>couvreur</unclear> a Six pieds environ au dessus<lb/>du planchers Superieur durez de chaussée et est actuell<hi>t</hi><lb/>elevé Jusque dessous la platteforme dentrée a recevoir le<lb/>pied des chevrons Letout Sans ravalement.</p>
+         <p>Dans l'interieur Sont deux murs dereffend construits<lb/>enmoelons et terres dans lesquels il a été fait des<lb/>percements de Bayes et reprises au droit du rez dechaussée<lb/>le tout sans aucun Ravallement.</p>
+         <p>Le plancher Superieur du rez dechaussé dans toutte<lb/>l'etendue dud. Batiment vient d'etre fait a neuf en<lb/>charpente et maconnerie avecaire de platre et <unclear>Baudes</unclear><lb/>de <gap/>.</p>
+         <p>Au 1.<hi>e</hi> etage il n'existe que deux pieces d'un des<lb/>murs dereffend n'etant point encore construit, l'autre est<lb/>construit en moelons et platre. Le plancher vient d'etre<lb/>construit a neuf en charpente Sans aucun Hourdis ; ce<lb/>meme mur dereffend montre en la Hauteur du 2<hi>e</hi> etage<lb/>ainsy que La Surelevation qui a été faitte aux murs de<lb/><gap/> et de pignon.</p>
+         <p>Le troisieme plancher a aussy été fait a<lb/>neuf en charpente Hourdé plein en maconnerie, La<lb/>platteforme et l'une des fermes du comble Sont posées<lb/>et tout le surplus des ouvrages necessaires <gap/> et cette Lad.<lb/>Batiment en etat d'habitation reste a faire.</p>
+         <p>Pour nous mettre en etat de constater L'elevation<lb/>et distribution de ce corps de Batiment, led. S.<hi>r</hi><lb/>Boiste nous a Remis le plan du rez de chausse et des<lb/>etages Superieurs avec l'elevation de la face Sur lejardin.<lb/>Lequel a été de luy Signé et paraphé pour demeuran<lb/>amené a les presentes, nous<lb/>avons ainsy que le greffier Signé et paraphé<lb/>Led. plan et l'avons amené aces presentes, nous en<lb/>feront un double qui Sera Signé et paraphé de même<lb/>pour être Joint a <unclear>l'expedition</unclear> de ces mêmes presentes.</p>
+         <p>D'apres ce qui vient d'être constaté cy dessus, comme<lb/>etant fait il resulte qu il reste a faire les ouvrages qui suivent <pb/> achever l'exhaussement du mur des offices Jusque a la<lb/>hauteur dentrée pour recevoir les chevrons du comble et les<lb/>adossements des cheminées, faire La construction des<lb/>cheminées et toutte toutte Leurs Hauteur Jusque et compris Leurs<lb/>Sortye Hors le comble a platre pure <gap/> y observer<lb/>les plintes et fermetures al'ordinaires les liens avec Le<lb/><gap/> de fer necessaire, garnir Les manteaux de chaux<lb/><gap/> Siés de pierre de biais fait de menuiserie, et Les<lb/>contrecourt de plaques et croissand faire Le Ravallement<lb/>Sur Le d. mur de doffice al'interieur dyd. corps de<lb/>Logis en toutte Sa Superfficie : faire pareillement tout<lb/>a l'interieur cy la l'interieur Le Ravalement du mur<lb/>de face Sur Le Jardin en toutte Sa Longueur et Hauteur<lb/>en Suivant Le profil de l'elevation cy commencé ;<lb/>faire Les tableaux et <gap/> de touttes Les<lb/>Bayes de croisées persées dans Led. mur, garnir<lb/>lesd. Bayes de chassis ouvrants a carraux de verre<lb/>fait de <gap/> fait d'alzare, les ferreu de <gap/> et <lb/>verrouils a ressorts :</p>
+         <p>Achever La construction des murs fait dereffend<lb/>fait de pignons commencés et faire la construction<lb/>de celuy qui reste a construire dans La Hauteur du 1.<hi>e</hi><lb/>etage, faire Les Ravalements Sur les d. murs tout al'interieur<lb/>qu'a l'exterieur, y observer Les Bayes de portes d'entrée<lb/>a la distribution et aux communications cy <gap/> Lesd.<lb/>Bayes de portes pleines ou a placard Suivant<lb/>quil Sera decidé pendant La construction et des<lb/>Serrures assortissantes.</p>
+         <p>Sera faitte La charpente du comble Suivant Les<lb/>assemblages ordinaires, en y observant Les passages<lb/>necessaires pour les thuyaux de cheminées, Letout<lb/>au Surplus de La Platteforme et de La ferme qui avoit<lb/>avons cydessus constaté être pesée.</p>
+         <p>Sera fait Le carreau de terre cuitte des differentes<lb/>pierres avec aire au dessous un plafond au dessous<lb/>des planchers.</p>
+         <pb/>
+         <p>Led. corps de Batiment Sera couvert de thuilles en<lb/>appenty :</p>
+         <p>Pour La Solidité de la construction Serra fournis et<lb/>oposés tous les apres Sera necessaire et <gap/><lb/>pour plattesbandes <gap/> chaines fontons et autres<lb/>touttes les menuiseries en portes et croisées Seront<lb/>imprimées a Haisse pour Leurs conservations ; Sera fait<lb/>un revers de pavé au devant de La face dud. Batiment<lb/>apres Sa construction.</p>
+         <p>Enfin pour L'achevement et entiere perfection<lb/>dud. Batiment Seront faits tous ouvrages necessaires<lb/>en maconnerie charpente couverture Serrurerie menée<lb/>crée peinture carrelage vitrerie marbrerye pavé et<lb/>autres Le tout executté Suivant L'art de chaque <gap/><lb/>et espece d'ouvrage et <gap/> en etat de perfection<lb/>et Exeption :</p>
+         <p>Telle est, monsieur, La Visitte par nous faitte<lb/>dud. terrain, tel est l'etat d'icelluy, telles Sont<lb/>Les constructions necessaires a faire Sir Led. terrain<lb/>Le tout par avant constaté Suivant et aux termes de<lb/>votre ordonnance.</p>
+         <p>Quant au chef d'icelle Suivant Laquel avons<lb/>devons constater La valeur dud. terrain, nous<lb/>Supercedons a l'execution d'iceluy vû Le consentement<lb/>dud. S.r Boiste en Son dire au present Rapport.</p>
+         <p>Fait par nous Arch. expert Susd. Lesd. Jur<lb/>mois et an.</p>
+         <p>Taboureur<lb/>Piquenon.</p>
+      </body>
+   </text>
+</TEI>
